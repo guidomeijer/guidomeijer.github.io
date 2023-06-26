@@ -1,10 +1,9 @@
----
-layout: default
----
 
-![](/assets/img/DSCF0209_square.jpg)
-Guido Meijer
+![](/assets/img/DSCF0209_square.jpg | width=100)
+# Guido Meijer
 
+As a neuroscientist I record brains and analyze the data that comes out of them. I’m based in the lab 
+of Francesco Battaglia at the Donders Institute in Nijmegen, The Netherlands. Besides neuroscience, I dabble in DJing, song writing, and applying machine learning to everything.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
