@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Donders Center for Neuroscience
+logo: /assets/img/donders_d_rgb_large_1.jpg
+description: At the Donders Centre for Neuroscience (DCN) we aim to understand the complex neural networks underlying perceptual, motor and cognitive brain functions. We study these networks by employing experimental as well as computational approaches.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

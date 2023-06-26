@@ -2,6 +2,11 @@
 layout: default
 ---
 
+|              |          |
+|:-------------|:------|
+| Guido Meijer           |  ![](/assets/img/DSCF0209_square.jpg) |
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -94,7 +99,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![](/assets/img/DSCF0209_square.jpg)
 
 ### Large image
 
