@@ -2,10 +2,8 @@
 layout: default
 ---
 
-<div style="text-align: right">
 ![](/assets/img/DSCF0209_square.jpg)
 Guido Meijer
-</div>
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
