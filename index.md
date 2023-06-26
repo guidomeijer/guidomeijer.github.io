@@ -1,5 +1,5 @@
 
-![](/assets/img/DSCF0209_square.jpg | width=100)
+![](/assets/img/DSCF0209_square.jpg | width=100px)
 # Guido Meijer
 
 As a neuroscientist I record brains and analyze the data that comes out of them. I’m based in the lab 
