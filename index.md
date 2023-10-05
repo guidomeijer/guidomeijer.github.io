@@ -1,5 +1,5 @@
 # Guido Meijer
-<img src="https://github.com/guidomeijer/website-test/blob/main/assets/img/DSCF0209_square.jpg" width="150">
+<img src="https://github.com/guidomeijer/guidomeijer.github.io/blob/main/assets/img/DSCF0209_square.jpg" width="150">
 
 As a neuroscientist I record brains and analyze the data that comes out of them. I’m based in the lab 
 of Francesco Battaglia at the Donders Institute in Nijmegen, The Netherlands. Besides neuroscience, I dabble in DJing, song writing, and applying machine learning to everything.
