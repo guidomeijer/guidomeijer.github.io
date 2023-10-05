@@ -6,12 +6,9 @@
 As a neuroscientist I record brains and analyze the data that comes out of them. I’m based in the lab 
 of Francesco Battaglia at the Donders Institute in Nijmegen, The Netherlands. Besides neuroscience, I dabble in DJing, song writing, and applying machine learning to everything.
 
-Email: guido.meijer {at} donders.ru.nl
-
-Twitter/X: @guido_meijer
-
-Mastodon: @guidomeijer@neuromatch.social
-
+Email: guido.meijer {at} donders.ru.nl  
+Twitter/X: @guido_meijer  
+Mastodon: @guidomeijer@neuromatch.social  
 Blue Sky: @guidomeijer.bsky.social
 
 ## List of publications
