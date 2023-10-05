@@ -3,4 +3,6 @@ logo: /assets/img/donders_d_rgb_large_1.jpg
 description: At the Donders Centre for Neuroscience (DCN) we aim to understand the complex neural networks underlying perceptual, motor and cognitive brain functions. We study these networks by employing experimental as well as computational approaches.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
